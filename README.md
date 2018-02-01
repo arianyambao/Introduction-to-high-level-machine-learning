@@ -14,3 +14,5 @@ All the mathematics behind are explained at the every end of the notebooks.
 **Mathematics**, **Probability & Statistics**, etc. are very essential in this field and studying it is highly recommended.
 But for the sake of understanding it easier and learning the maths behind it after knowing what it does is the reason why the tutorials are created.
 So probably for this the only key in learning this is pure **Common Sense** and basic knowledge **arithmetics**
+
+If however you want to learn the basic maths you can begin with see this [link](https://github.com/AFAgarap/tensorflow-training/blob/master/getting-started/jupyter-notebooks/%5B0%5D%20Mathematics%20for%20Machine%20Learning.ipynb)
